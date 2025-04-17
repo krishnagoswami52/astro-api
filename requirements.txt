@@ -1,7 +1,5 @@
-cat > requirements.txt <<EOF
 fastapi
 uvicorn
 geopy
 swisseph
-openai
-EOF
+openais
