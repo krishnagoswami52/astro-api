@@ -2,4 +2,4 @@ fastapi
 uvicorn
 geopy
 swisseph
-openais
+openai
